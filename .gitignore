@@ -1,2 +1,8 @@
 .idea
-ansible_home
+ansible_home/centos1
+ansible_home/centos2
+ansible_home/centos3
+ansible_home/ubuntu1
+ansible_home/ubuntu2
+ansible_home/ubuntu3
+ansible_home/ubuntu-c
