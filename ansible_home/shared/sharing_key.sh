@@ -14,3 +14,5 @@ for user in "${users[@]}"
           done
       done
   done
+
+echo 'SSH Public key has been shared'
